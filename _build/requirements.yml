@@ -1,0 +1,4 @@
+---
+collections:
+- name: cisco.dnac
+  version: 6.6.2
